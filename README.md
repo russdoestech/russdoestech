@@ -10,8 +10,9 @@ I use AI mainly as a research/study assistant. I've found it useful to bounce id
 
 When I'm not doing IT stuff (work, labbing, or learning) I get outside and do trail running and hiking. If I have any extra free time, I like to play a bit of Fallout (3, 4, London, it all good!).
 
-Socials
-|-|-|
+
+|  Social  |  Link  |
+| -------- | ------ |
 | LinkedIn | https://linkedin.com/in/russ-ryness |
 | Website | https://russdoestech.com |
 
