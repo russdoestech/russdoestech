@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Russ. I've been working in IT for a while now. I started on the help desk at Intel and Apple, and moved to desktop support and field services for MSPs, then to Systems and Network administration.
+I'm Russ. I've been working in IT for a while now. I worked my way up from help desk roles at Intel and Apple, to desktop support and field services roles for MSPs like EDS and HP, then to Systems Administration and Network Engineering roles with big energy and healthcare organizations.
 
 My areas of interest include infrastructure design, deployment, and management. This includes on premises, cloud, and hybrid architectures. Additionally, I'm interested in cloud, cyber-security, automation, and practical use-cases for AI.
 
